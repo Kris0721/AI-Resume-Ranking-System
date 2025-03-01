@@ -1,6 +1,7 @@
 # AI-Resume-Ranking-System
 
 🚀 Overview
+
 This project automates resume screening using TF-IDF &amp; Cosine Similarity to rank candidates based on job description relevance. Built with Python, Streamlit, and Scikit-learn, it extracts text from PDFs and provides a ranked list of resumes, streamlining recruitment. This project is an AI-powered Resume Screening & Candidate Ranking System that helps recruiters shortlist candidates efficiently. It uses TF-IDF and Cosine Similarity to compare resumes against a job description and rank them based on relevance.
 
 🛠 Features
