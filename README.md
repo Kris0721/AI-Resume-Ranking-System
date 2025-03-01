@@ -46,7 +46,7 @@ streamlit run aiR.py
 
 Enter the job description in the text area.
 
-Upload multiple PDF resumes.
+Upload a single PDF resumes.
 
-View the ranked list of candidates based on relevance.
+View the score of candidate based on relevance.
 
