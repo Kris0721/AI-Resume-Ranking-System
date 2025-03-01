@@ -50,18 +50,3 @@ Upload multiple PDF resumes.
 
 View the ranked list of candidates based on relevance.
 
-📷 Demo Screenshot
-
-(Add a screenshot or GIF of the app here)
-
-📜 License
-
-This project is open-source under the MIT License.
-
-🤝 Contributing
-
-Feel free to fork this repository and submit pull requests! Let's improve it together. 🚀
-
-📬 Contact
-
-For any inquiries, reach out to me at krish21kk7k@gmail.com
