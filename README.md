@@ -31,7 +31,7 @@ Pandas (for data handling)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ai-resume-screening.git
+git clone https://github.com/Kris0721/AI-Resume-Ranking-System.git
 cd ai-resume-screening
 
 Install dependencies:
